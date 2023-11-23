@@ -1,8 +1,8 @@
 # MediaMojo
 
-## Media downloader using sonarr, radarr, jackett and transmission-daemon with openvpn support
+Media downloader using sonarr, radarr, jackett and transmission-daemon with openvpn support
 
-### Usage
+## Usage
 
 The instructions below apply to most vpn providers which allow downloading a `config.ovpn` file.
 
